@@ -3,7 +3,7 @@ type ChaiOrder = {
     sugar:number;
     strong:boolean;
 }
-
+ 
 function makChai(chai: ChaiOrder){
     console.log(chai)
 }
